@@ -1,0 +1,22 @@
+GEM
+  remote: http://ruby.taobao.org/
+  specs:
+    metaclass (0.0.4)
+    mocha (1.1.0)
+      metaclass (~> 0.0.1)
+    power_assert (0.2.2)
+    rake (10.4.2)
+    rmmseg-cpp (0.2.9)
+    ruby-pinyin (0.4.5)
+      rmmseg-cpp (~> 0.2)
+    test-unit (3.0.9)
+      power_assert
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mocha
+  rake
+  ruby-pinyin
+  test-unit
