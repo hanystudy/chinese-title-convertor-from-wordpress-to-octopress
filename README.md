@@ -10,6 +10,4 @@ This tool is for converting post name like above to chinese pinyin form:
 
 According to the chinese title in post:
 
----
 title: 哈哈
----
